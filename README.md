@@ -16,7 +16,8 @@ http://plantgdb.org/cgi-bin/blast/PlantGDBblast
 
 under step 2. Go to the very start of the text box and add >yournames-test and press enter, so it looks a bit like this:
 
->Kims-test
+\>Kims-test
+
 ATATAGATAG.....
 
 Go back to step 1. and click the box marked all species. Then, under organism, click the box marked select all. 
