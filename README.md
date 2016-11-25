@@ -3,7 +3,7 @@ Data from smoothie sequencing experiment:
 
 smoothie.fastq - data from smoothie sequencing experiment at The Perse School, Cambridge on 14/11/16. The flow cell was R9 and the sequencing kit was the Rapid Sequencing kit SQK-RAD001 
 
-fruit_salad.fastq - data for the challenge.
+fruit_salad_canteen.fastq - data for the challenge.
 
 Challenge! I sequenced some DNA extracted from fruit salad I bought from our canteen. Can you determine what species it belongs to? 
 
@@ -25,7 +25,7 @@ Go down to step 3 and click Run Blast.
 
 There are a lot of different results. Are any of them linked to a fruit? 
 
-At the moment, it is harder to find out what plant DNA is present in a sample than what bacteria DNA is present. Why do you think this might be? 
+At the moment, it is harder to find out what plant DNA is present in a sample than what bacteria DNA is present. There are a couple of reasons for this. What do you think these are? 
 
 I'm on twitter @kim_judge_
 
