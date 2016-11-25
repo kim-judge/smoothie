@@ -25,7 +25,7 @@ Go down to step 3 and click Run Blast.
 
 There are a lot of different results. Are any of them linked to a fruit? 
 
-At the moment, it is harder to find out what plant DNA is present in a sample than what bacteria DNA is present. There are a couple of reasons for this. What do you think these are? 
+At the moment, it is harder to find out what plant DNA is present in a sample than what bacterial DNA is present. There are a couple of reasons for this. What do you think these are? 
 
 I'm on twitter @kim_judge_
 
