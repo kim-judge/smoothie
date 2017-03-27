@@ -1,4 +1,7 @@
 # smoothie
+
+Listen to the podcast at https://www.thenakedscientists.com/articles/interviews/sequencing-smoothies
+
 Data from smoothie sequencing experiment:
 
 smoothie.fastq - data from smoothie sequencing experiment at The Perse School, Cambridge on 14/11/16. The flow cell was R9 and the sequencing kit was the Rapid Sequencing kit SQK-RAD001 
